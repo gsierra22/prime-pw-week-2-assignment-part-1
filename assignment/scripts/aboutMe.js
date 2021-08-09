@@ -35,7 +35,7 @@ else {console.log ('How about we go home');}
 
 // 14 - Create a compound conditional: if luckyNumber is 2 and adventurous is true,
 // console log "Roll the dice!"
-if( luckyNumber = 2 && adventurous == true ) {console.log( 'Roll the Dice!' );
+if( luckyNumber = 2 && adventurous == 'true' ) {console.log( 'Roll the Dice!' );
 }
 // 15 - Write a conditional that console logs "I can have more pets!"
 //if the value of `pets` is less than the value of `allowedPets`,
